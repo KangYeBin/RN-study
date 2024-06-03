@@ -16,7 +16,7 @@ const GoalInput = ({ onAddGoal }) => {
   };
 
   return (
-    <View style={styles.inputCrontainer}>
+    <View style={styles.inputContainer}>
       <TextInput
         style={styles.textInput}
         placeholder='할 일을 입력하세요!'
